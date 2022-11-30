@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## URL
 Check the project online on:
 ### `https://betapp-one.vercel.app/`
+
+## Login User
+You can use this login :
+### `email: admin@admin.com password: admin`
+
 ## Available Scripts
 
 In the project directory, you can run:
