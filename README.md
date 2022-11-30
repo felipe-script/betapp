@@ -8,7 +8,9 @@ Check the project online on:
 
 ## Login User
 You can use this login :
-### `email: admin@admin.com password: admin`
+
+email: admin@admin.com
+password: admin
 
 ## Available Scripts
 
