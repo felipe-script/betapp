@@ -51,7 +51,7 @@ const Login: React.FC = (): React.ReactElement => {
         <S.ColumnRight>
           <S.ContentColumnRight>
             <S.CenteredText>
-              <S.BrandTitleRight>Welcome</S.BrandTitleRight>
+              <S.BrandTitleRight>Welcome :)</S.BrandTitleRight>
             </S.CenteredText>
             <S.FormContainer>
               <S.Form onSubmit={(e) => handleLogin(e)}>
